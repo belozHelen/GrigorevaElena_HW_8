@@ -1,0 +1,15 @@
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/bin/Debug/net6.0/Task_2
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/bin/Debug/net6.0/Task_2.deps.json
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/bin/Debug/net6.0/Task_2.runtimeconfig.json
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/bin/Debug/net6.0/Task_2.dll
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/bin/Debug/net6.0/Task_2.pdb
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/obj/Debug/net6.0/Task_2.csproj.AssemblyReference.cache
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/obj/Debug/net6.0/Task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/obj/Debug/net6.0/Task_2.AssemblyInfoInputs.cache
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/obj/Debug/net6.0/Task_2.AssemblyInfo.cs
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/obj/Debug/net6.0/Task_2.csproj.CoreCompileInputs.cache
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/obj/Debug/net6.0/Task_2.dll
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/obj/Debug/net6.0/refint/Task_2.dll
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/obj/Debug/net6.0/Task_2.pdb
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/obj/Debug/net6.0/Task_2.genruntimeconfig.cache
+/Users/elenagrigoreva/Documents/GitHub/GrigorevaElena_HW_8/Task_2/obj/Debug/net6.0/ref/Task_2.dll
